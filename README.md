@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Tomeryo1
+- 👀 I’m interested in lua,sql
+- 🌱 I’m currently learning lua
+- 📫 How to reach me Tomer#2043
